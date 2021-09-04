@@ -18,7 +18,8 @@ const Home: NextPage = () => {
           Check out our{' '}
           <a href="https://github.com/SeanDaBlack/AbBOT" rel="noreferrer" target="_blank">
             Github
-          </a>
+          </a>{' '}
+          to get started
         </p>
       </main>
 
