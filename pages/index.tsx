@@ -12,13 +12,14 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Pro Choice Texas Today!</h1>
+        <h1 className={styles.title}>Pro Choice Texas Today</h1>
 
         <p className={styles.description}>
           Check out our{' '}
           <a href="https://github.com/SeanDaBlack/AbBOT" rel="noreferrer" target="_blank">
             Github
-          </a>
+          </a>{' '}
+          to get started
         </p>
       </main>
 
