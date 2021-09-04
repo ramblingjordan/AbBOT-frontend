@@ -2,7 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+## Discord Server
+
+https://discord.gg/PrAWWCCpDg
+
+### FAQ
+
+If you have a question, before dropping into the Discord, check out our [FAQ page](https://github.com/SeanDaBlack/AbBOT/blob/main/FAQ.md) and see if your question has already been answered.
+
+## Overview
+
+### Clone the repo
 
 ```bash
 npm run dev
